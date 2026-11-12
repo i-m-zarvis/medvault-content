@@ -90,7 +90,8 @@
       "publisher": "National Medical Commission, Government of India",
       "enabled": true,
       "defaultCategory": "mbbs-updates",
-      "maxItems": 100
+      "maxItems": 100,
+      "rowOnly": true
     },
     {
       "id": "ddumhsac-exams",

@@ -238,6 +238,10 @@ def main():
             if adapter is None:
                 raise ValueError(f"Unsupported collector type: {src.get('type')}")
             batch = adapter(src)
+            # A successful full-source scan replaces that source's prior snapshot.
+            # Failed scans never reach this point, so last-known-good data is preserved.
+            merged = {key: value for key, value in merged.items()
+                      if value.get("sourceId") != src["id"]}
             accepted = 0
             for item in batch:
                 if item["category"] not in valid_categories:

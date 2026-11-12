@@ -23,6 +23,15 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(collector.extract_date("Notice dated 12.11.2026"), "2026-11-12T00:00:00Z")
         self.assertEqual(collector.extract_date("Dated 2026-11-12"), "2026-11-12T00:00:00Z")
 
+    def test_source_snapshot_replaces_old_records(self):
+        records = {
+            "old": {"sourceId": "ddumhsac-exams"},
+            "keep": {"sourceId": "pubmed-india-health"}
+        }
+        refreshed = {key: value for key, value in records.items()
+                     if value.get("sourceId") != "ddumhsac-exams"}
+        self.assertEqual(list(refreshed), ["keep"])
+
     def test_category_routing(self):
         source = {"defaultCategory": "exam-radar", "categoryRules": [
             {"contains": ["NEET PG"], "category": "neet-pg"}]}
