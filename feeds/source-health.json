@@ -1,69 +1,69 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T21:43:02Z",
+  "generatedAt": "2026-11-12T21:43:55Z",
   "sources": [
     {
       "id": "pib-health",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "durationSeconds": 1.77
+      "durationSeconds": 1.71
     },
     {
       "id": "pubmed-india-health",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
-      "lastSuccessAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
+      "lastSuccessAt": "2026-11-12T21:43:55Z",
       "itemCount": 50,
       "error": null,
-      "durationSeconds": 0.88
+      "durationSeconds": 0.51
     },
     {
       "id": "nbems-notice-board",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://natboard.edu.in/deptnotice",
-      "durationSeconds": 0.08
+      "durationSeconds": 0.07
     },
     {
       "id": "mcc-pg-notices",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/document-category/news-events/",
-      "durationSeconds": 0.34
+      "durationSeconds": 0.26
     },
     {
       "id": "mcc-ug-notices",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/document-category/news-events/",
-      "durationSeconds": 0.04
+      "durationSeconds": 0.03
     },
     {
       "id": "nmc-notices",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
-      "lastSuccessAt": "2026-11-12T21:43:02Z",
-      "itemCount": 12,
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
+      "lastSuccessAt": "2026-11-12T21:43:55Z",
+      "itemCount": 6,
       "error": null,
-      "durationSeconds": 1.28
+      "durationSeconds": 1.14
     },
     {
       "id": "ddumhsac-exams",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:43:02Z",
-      "lastSuccessAt": "2026-11-12T21:43:02Z",
+      "lastAttemptAt": "2026-11-12T21:43:55Z",
+      "lastSuccessAt": "2026-11-12T21:43:55Z",
       "itemCount": 36,
       "error": null,
-      "durationSeconds": 2.55
+      "durationSeconds": 2.54
     }
   ]
 }
