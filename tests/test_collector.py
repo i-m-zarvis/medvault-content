@@ -1,5 +1,6 @@
 import importlib.util
 import unittest
+from unittest.mock import Mock, patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -37,6 +38,28 @@ class CollectorTests(unittest.TestCase):
             {"contains": ["NEET PG"], "category": "neet-pg"}]}
         self.assertEqual(collector.route_category(source, "NEET PG 2026 notice"), "neet-pg")
         self.assertEqual(collector.route_category(source, "University timetable"), "exam-radar")
+
+
+    def test_collect_html_uses_official_fallback_endpoint(self):
+        source = {
+            "id": "nbems-notice-board", "name": "NBEMS", "tier": "official",
+            "defaultCategory": "exam-radar",
+            "url": "https://webdisk.natboard.edu.in/primary",
+            "fallbackUrls": ["https://webdisk.natboard.edu.in/fallback"]
+        }
+        failed = Mock()
+        failed.raise_for_status.side_effect = collector.requests.HTTPError("403 Forbidden")
+        good = Mock()
+        good.content = (b'<table><tr><td>12-11-2026</td><td>'
+                        b'<a href="/notice.pdf">NEET PG 2026 Notice</a>'
+                        b'</td></tr></table>')
+        good.raise_for_status.return_value = None
+        with patch.object(collector.SESSION, "get", side_effect=[failed, good]) as get:
+            items = collector.collect_html(source)
+        self.assertEqual(get.call_count, 2)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["category"], "exam-radar")
+        self.assertEqual(items[0]["url"], "https://webdisk.natboard.edu.in/notice.pdf")
 
     def test_make_item_requires_http_url(self):
         source = {"id": "s", "name": "Source", "tier": "official", "defaultCategory": "medical-news"}

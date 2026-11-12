@@ -157,53 +157,61 @@ def route_category(src, title):
     return src.get("defaultCategory", "medical-news")
 
 def collect_html(src):
-    response = SESSION.get(src["url"], timeout=(10, 35))
-    response.raise_for_status()
-    soup = BeautifulSoup(response.content, "html.parser")
-    output, seen_urls = [], set()
-    for anchor in soup.find_all("a", href=True):
-        title = clean(anchor.get_text(" ", strip=True))
-        href = safe_url(urljoin(src["url"], anchor["href"]))
-        if not title or not href or href in seen_urls:
-            continue
-        if href.startswith(("mailto:", "javascript:")):
-            continue
-        if any(term.casefold() in title.casefold() for term in src.get("excludeTitles", [])):
-            continue
-        row = anchor.find_parent(["tr", "li", "article"])
-        if src.get("rowOnly") and row is None:
-            continue
-        if src.get("tableOnly") and anchor.find_parent("tr") is None:
-            continue
-        context = clean(row.get_text(" ", strip=True)) if row else title
-        required = [term.casefold() for term in src.get("requiredKeywords", [])]
-        if required and not any(term in context.casefold() for term in required):
-            continue
-        # Prefer links that represent an actual notice/document, not site navigation.
-        path = urlparse(href).path.casefold()
-        is_document = path.endswith((".pdf", ".doc", ".docx")) or any(
-            token in title.casefold() for token in ("notice", "circular", "result", "schedule",
-                "timetable", "time table", "examination", "notification", "bulletin",
-                "counselling", "counseling", "seat matrix", "public notice", "date sheet")
-        )
-        if not is_document:
-            continue
-        if len(title) < 8 or title.casefold() in {"view", "download", "click here", "read more"}:
-            title = context
-        if not title or len(title) < 8:
-            continue
-        if src.get("keywords") and not any(k.casefold() in context.casefold() for k in src["keywords"]):
-            continue
-        published_at = extract_date(context) or extract_date(title)
-        item = make_item(src, title, href, context if context != title else None,
-                         published_at, href, route_category(src, title))
-        if item:
-            output.append(item)
-            seen_urls.add(href)
-    # Empty extraction is a source failure, not a successful empty feed.
-    if not output:
-        raise RuntimeError("No notice/document links extracted; page structure may have changed")
-    return output
+    # Try the primary official page, then explicitly configured official fallbacks.
+    # A fallback is used only when the primary request or extraction fails.
+    urls = [src["url"]] + list(src.get("fallbackUrls", []))
+    failures = []
+    for page_url in urls:
+        try:
+            response = SESSION.get(page_url, timeout=(10, 35))
+            response.raise_for_status()
+            soup = BeautifulSoup(response.content, "html.parser")
+            output, seen_urls = [], set()
+            for anchor in soup.find_all("a", href=True):
+                title = clean(anchor.get_text(" ", strip=True))
+                href = safe_url(urljoin(page_url, anchor["href"]))
+                if not title or not href or href in seen_urls:
+                    continue
+                if any(term.casefold() in title.casefold() for term in src.get("excludeTitles", [])):
+                    continue
+                row = anchor.find_parent(["tr", "li", "article"])
+                if src.get("rowOnly") and row is None:
+                    continue
+                if src.get("tableOnly") and anchor.find_parent("tr") is None:
+                    continue
+                context = clean(row.get_text(" ", strip=True)) if row else title
+                required = [term.casefold() for term in src.get("requiredKeywords", [])]
+                if required and not any(term in context.casefold() for term in required):
+                    continue
+                path = urlparse(href).path.casefold()
+                is_document = path.endswith((".pdf", ".doc", ".docx")) or any(
+                    token in title.casefold() for token in ("notice", "circular", "result", "schedule",
+                        "timetable", "time table", "examination", "notification", "bulletin",
+                        "counselling", "counseling", "seat matrix", "public notice", "date sheet")
+                )
+                if not is_document:
+                    continue
+                if len(title) < 8 or title.casefold() in {"view", "download", "click here", "read more"}:
+                    title = context
+                if not title or len(title) < 8:
+                    continue
+                if src.get("keywords") and not any(k.casefold() in context.casefold() for k in src["keywords"]):
+                    continue
+                published_at = extract_date(context) or extract_date(title)
+                item = make_item(src, title, href, context if context != title else None,
+                                 published_at, href, route_category(src, title))
+                if item:
+                    output.append(item)
+                    seen_urls.add(href)
+            if output:
+                if page_url != src["url"]:
+                    LOG.info("%s: primary page unavailable; fallback succeeded: %s", src["id"], page_url)
+                return output
+            failures.append(f"{page_url}: no notice/document links extracted")
+        except Exception as exc:
+            failures.append(f"{page_url}: {type(exc).__name__}: {str(exc)[:250]}")
+            LOG.warning("%s endpoint failed (%s)", src["id"], page_url)
+    raise RuntimeError("All configured HTML endpoints failed: " + " | ".join(failures)[:900])
 
 COLLECTORS = {"rss": collect_rss, "pubmed": collect_pubmed, "html": collect_html}
 

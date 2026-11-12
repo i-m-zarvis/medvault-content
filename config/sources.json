@@ -41,7 +41,7 @@
       "id": "nbems-notice-board",
       "name": "NBEMS Notice Board",
       "type": "html",
-      "url": "https://natboard.edu.in/deptnotice",
+      "url": "https://webdisk.natboard.edu.in/allnotice.php",
       "tier": "official",
       "publisher": "National Board of Examinations in Medical Sciences",
       "enabled": true,
@@ -52,34 +52,42 @@
           "contains": [
             "NEET-PG",
             "NEET PG",
-            "NEET-PG",
             "INI-CET"
           ],
           "category": "neet-pg"
         }
+      ],
+      "fallbackUrls": [
+        "https://webdisk.natboard.edu.in/deptnotice"
       ]
     },
     {
       "id": "mcc-pg-notices",
       "name": "MCC PG Counselling Notices",
       "type": "html",
-      "url": "https://mcc.nic.in/document-category/news-events/",
+      "url": "https://mcc.nic.in/pg-medical-counselling/",
       "tier": "official",
       "publisher": "Medical Counselling Committee, Directorate General of Health Services",
       "enabled": true,
       "defaultCategory": "neet-pg",
-      "maxItems": 100
+      "maxItems": 100,
+      "fallbackUrls": [
+        "https://mcc.nic.in/archive-pg/"
+      ]
     },
     {
       "id": "mcc-ug-notices",
       "name": "MCC UG Counselling Notices",
       "type": "html",
-      "url": "https://mcc.nic.in/document-category/news-events/",
+      "url": "https://mcc.nic.in/ug-medical-counselling/",
       "tier": "official",
       "publisher": "Medical Counselling Committee, Directorate General of Health Services",
       "enabled": true,
       "defaultCategory": "exam-radar",
-      "maxItems": 100
+      "maxItems": 100,
+      "fallbackUrls": [
+        "https://mcc.nic.in/archive-ug/"
+      ]
     },
     {
       "id": "nmc-notices",
