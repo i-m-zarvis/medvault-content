@@ -173,6 +173,8 @@ def collect_html(src):
         row = anchor.find_parent(["tr", "li", "article"])
         if src.get("rowOnly") and row is None:
             continue
+        if src.get("tableOnly") and anchor.find_parent("tr") is None:
+            continue
         context = clean(row.get_text(" ", strip=True)) if row else title
         required = [term.casefold() for term in src.get("requiredKeywords", [])]
         if required and not any(term in context.casefold() for term in required):

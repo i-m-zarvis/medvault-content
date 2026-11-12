@@ -91,7 +91,8 @@
       "enabled": true,
       "defaultCategory": "mbbs-updates",
       "maxItems": 100,
-      "rowOnly": true
+      "rowOnly": true,
+      "tableOnly": true
     },
     {
       "id": "ddumhsac-exams",
@@ -116,7 +117,8 @@
       "requiredKeywords": [
         "MBBS",
         "M.B.B.S"
-      ]
+      ],
+      "tableOnly": true
     }
   ]
 }
