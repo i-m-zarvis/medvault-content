@@ -141,7 +141,7 @@ def extract_date(text):
         if not match:
             continue
         raw = match.group(1)
-        for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%d %b %Y",
+        for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%d.%m.%Y", "%d %b %Y",
                     "%d %B %Y", "%b %d, %Y", "%B %d, %Y", "%b %d %Y", "%B %d %Y"):
             try:
                 return datetime.strptime(raw, fmt).replace(tzinfo=UTC).isoformat().replace("+00:00", "Z")
