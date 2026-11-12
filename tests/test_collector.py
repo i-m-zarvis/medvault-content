@@ -17,7 +17,7 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(collector.safe_url("https://example.org/a"), "https://example.org/a")
 
     def test_clean_whitespace(self):
-        self.assertEqual(collector.clean("  beta\\n  blocker "), "beta blocker")
+        self.assertEqual(collector.clean("  beta\n  blocker "), "beta blocker")
 
     def test_make_item_requires_http_url(self):
         source = {"id": "s", "name": "Source", "tier": "official", "defaultCategory": "medical-news"}
