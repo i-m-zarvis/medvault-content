@@ -15,7 +15,7 @@ def read(path): return json.loads(path.read_text(encoding="utf-8"))
 def clean(value):
     if value is None: return None
     value=re.sub(r"<[^>]+>"," ",str(value))
-    return re.sub(r"\\s+"," ",value).strip() or None
+    return re.sub(r"\s+"," ",value).strip() or None
 def safe_url(value):
     if not value: return None
     p=urlparse(value)
@@ -85,7 +85,7 @@ def main():
     manifest=[]
     for cat in categories:
         selected=[x for x in ordered if x["category"]==cat["id"]][:cat["maxItems"]]
-        (ROOT/f'feeds/{cat["id"]}.json').write_text(json.dumps({"category":cat["id"],"updatedAt":NOW,"items":selected},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+        (ROOT/f'feeds/{cat["id"]}.json').write_text(json.dumps({"category":cat["id"],"updatedAt":NOW,"items":selected},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
         manifest.append({"id":cat["id"],"title":cat["title"],"path":f'feeds/{cat["id"]}.json',"count":len(selected)})
     (ROOT/"feeds/manifest.json").write_text(json.dumps({"schemaVersion":1,"generatedAt":NOW,"scope":"india-health","feeds":manifest},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
     if failures: print("Non-fatal source failures:",json.dumps(failures,indent=2))
