@@ -1,5 +1,956 @@
 {
   "category": "trending-medicine",
-  "updatedAt": null,
-  "items": []
+  "updatedAt": "2026-11-12T21:20:51Z",
+  "items": [
+    {
+      "id": "85fa7a4edcee37c8b1bb90fd",
+      "title": "\"Sailing Two Boats\" the fragmented identity of working women and the hidden labor of infertility: a qualitative analysis.",
+      "description": "J Psychosom Obstet Gynaecol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842760/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42842760"
+    },
+    {
+      "id": "0b5e139af8d6b850a9f1f195",
+      "title": "State of the global tuberculosis epidemic: burden, progress towards WHO End TB Strategy targets and systemic challenges.",
+      "description": "Lancet Microbe",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526488/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42526488"
+    },
+    {
+      "id": "827d5527850f5c9197c6219a",
+      "title": "Label-free impedimetric immunosensor for TSH detection using Ni-Co(3)O(4)/AuNP-modified screen-printed electrodes.",
+      "description": "Talanta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933159/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42933159"
+    },
+    {
+      "id": "2c15be7fb6c0f8d6aa4ce438",
+      "title": "An AI-driven clinical decision support system for coronary artery disease prediction in T2DM patients using clinical laboratory parameters and deep fusion learning.",
+      "description": "Clin Chim Acta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665118/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42665118"
+    },
+    {
+      "id": "c10903a34d8be869535f8413",
+      "title": "Non-enzymatic square-wave voltammetric determination of progesterone using an MWCNT-IMZ composite.",
+      "description": "Clin Chim Acta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42641936/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42641936"
+    },
+    {
+      "id": "91168d1a0f91c8c5980bc92e",
+      "title": "Digital droplet PCR and liquid biopsy in acute myeloid Leukemia: bridging translational research and clinical practice.",
+      "description": "Clin Chim Acta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624191/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42624191"
+    },
+    {
+      "id": "1bdef37a20d9f94f809119a6",
+      "title": "Comprehensive review of chronic kidney disease molecular biomarkers: Clinical significance, human health impact, and emerging diagnostic strategies.",
+      "description": "Clin Chim Acta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594981/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42594981"
+    },
+    {
+      "id": "58271e91133948fd34322279",
+      "title": "Lateral flow immunoassays: challenges and innovations.",
+      "description": "Clin Chim Acta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42570835/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42570835"
+    },
+    {
+      "id": "1bf9bc6a97fcc9e6cb788b83",
+      "title": "An integrated opto-fluidic miniaturized multimodal spectroscopic sensing platform for multiplexed electrolyte detection in blood serum.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800130/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42800130"
+    },
+    {
+      "id": "3625cc703f2823b8219e38c9",
+      "title": "Beyond myocardial infarction: Point-of-care cardiac troponin biosensors for heart failure prognosis and remote monitoring.",
+      "description": "Bioelectrochemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612493/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42612493"
+    },
+    {
+      "id": "49bfec699bbfc2bbfa2ebe4d",
+      "title": "Gd-induced electronic modulation in NiAl-LDH/f-MWCNT heterostructures enables ultrasensitive wireless detection of adenosine, a breast cancer-associated metabolite, in clinical samples.",
+      "description": "Talanta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612251/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42612251"
+    },
+    {
+      "id": "5727a410e7dd4ce1d94853eb",
+      "title": "Paper-based electrochemical aptasensor using Ti(3)C(2) MXene for sensitive detection of Mammaglobin-A biomarker.",
+      "description": "Talanta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580247/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42580247"
+    },
+    {
+      "id": "5a4e17e14f20629468b40bd5",
+      "title": "AuNP decorated-Ni-MOF nanosheet based cDNA sensor for detection of miRNA-128 in Alzheimer's disease.",
+      "description": "Talanta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571753/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42571753"
+    },
+    {
+      "id": "51d309810c1e286445726a8c",
+      "title": "Detection of geosmin using an aptamer-functionalized LSPR chip integrated with a microfluidic platform.",
+      "description": "Talanta",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42537521/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42537521"
+    },
+    {
+      "id": "81c4b6757ecd36b289a9c113",
+      "title": "Fermentation mediated enhancement of millet bioactivity: Microbial dynamics and functional innovation.",
+      "description": "Int J Food Microbiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822170/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42822170"
+    },
+    {
+      "id": "f495e8fe1c632d2c0a6ee70b",
+      "title": "Identification of Geographical Chemical Markers in Neolitsea pallens Using UHPLC-Q-TOF-MS/MS and Multivariate Analysis.",
+      "description": "Rapid Commun Mass Spectrom",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012638/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43012638"
+    },
+    {
+      "id": "e929147d01738d04fcfe6776",
+      "title": "Label-free analysis of grade-specific molecular alterations in osteoarthritic subchondral bone using Raman spectroscopy coupled with MCR-ALS.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762623/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42762623"
+    },
+    {
+      "id": "c3b10ac3ecf56a803e5a112b",
+      "title": "Smartphone-assisted colorimetric sensor coupled with magnetically recoverable MnFe(2)O(4)/ZnO/rGO nanocomposites for trace detection and photocatalytic removal of tetracycline antibiotics.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748727/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42748727"
+    },
+    {
+      "id": "d1c6cd811bee386ddc2bdae8",
+      "title": "A multi-responsive chemosensor for selective recognition of Pb(2+), Cr(3+) and Fe(3+) in aqueous media with cellular imaging applications.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748724/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42748724"
+    },
+    {
+      "id": "2a6eda711edca9c0d7fa4c5a",
+      "title": "Machine learning-assisted optimization of a BK7/Ag/As₂S₃/graphene surface plasmon resonance biosensor for high-sensitivity urine glucose detection.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732688/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42732688"
+    },
+    {
+      "id": "f44ad6d8eed374ad31a759a8",
+      "title": "Single-crystal X-ray characterization of an Aminoquinoline Schiff Base as a selective Chemosensor for Sn(II) with antioxidant and anticancer activities.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731156/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42731156"
+    },
+    {
+      "id": "916e2e78cfec3ccddaf27f10",
+      "title": "NIR-based PLS method distinguishes soluble coffee and soluble chicory but not type of soluble coffee when in mixture: confirmation by NMR spectroscopy.",
+      "description": "J Sci Food Agric",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625267/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42625267"
+    },
+    {
+      "id": "8b892c2a742eca0d81e2bcec",
+      "title": "Advantages of low-glycaemic-index carbohydrates in regulating glycaemic response of energy bar: A review.",
+      "description": "J Sci Food Agric",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42252591/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42252591"
+    },
+    {
+      "id": "6ab9bc1661f68f67a1809394",
+      "title": "Bromelain as the enzyme of the future: A global bibliometric mapping of its applications and emerging trends.",
+      "description": "J Sci Food Agric",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42210536/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42210536"
+    },
+    {
+      "id": "bf3cd73091cdb5698d41d544",
+      "title": "Next-generation nutrition: A review of technological advances and nutritional aspects of 3D food printing.",
+      "description": "J Sci Food Agric",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42087282/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42087282"
+    },
+    {
+      "id": "d696637f4efee16171236669",
+      "title": "Spatiotemporal patterns in predator-prey system with free space and limited resources.",
+      "description": "J Theor Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732829/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42732829"
+    },
+    {
+      "id": "7efe808a821f884715aa56d4",
+      "title": "Acute multi-organ dysfunction (aMOD): Brighton Collaboration case definition and guidelines for data collection, analysis, and presentation of immunization safety data.",
+      "description": "Vaccine",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963301/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42963301"
+    },
+    {
+      "id": "3df508756a7a95ee77208df8",
+      "title": "Dual-emissive polymeric nanoparticles-Ag nanoclusters hybrid for selective Ratiometric sensing of glutathione via Cu(II) displacement approach.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667752/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42667752"
+    },
+    {
+      "id": "06b8520c0f6a043e1b2572c9",
+      "title": "Machine learning-guided spectral fingerprinting reveals Parkinson's disease-associated biochemical changes in Drosophila melanogaster.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585923/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42585923"
+    },
+    {
+      "id": "ca0114c097d6a044776cdd4e",
+      "title": "Biocontrol of postharvest blue mold in pear fruit by Hanseniaspora uvarum Y22: Antifungal mechanisms involving mycoparasitism and volatile organic compounds.",
+      "description": "Int J Food Microbiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767059/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42767059"
+    },
+    {
+      "id": "273f93ae71f665b962bf0b1c",
+      "title": "The Association Between Paternal BMI and Semen Quality in Cohorts Undergoing IUI, IVF and ICSI Fertility Treatments: A Systematic Review and Meta-Analysis.",
+      "description": "Andrology",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004767/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43004767"
+    },
+    {
+      "id": "56d043ffc5887a698c9cf093",
+      "title": "Portal Vein Thrombosis: The Indian National Association for Study of the Liver Recommendations for Management.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001267/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43001267"
+    },
+    {
+      "id": "13714277b2628a4b111c1712",
+      "title": "Integrating Tummy Time Into Routine NICU Care: Healthcare Workers' Perspectives on Long-Term Implementation in India.",
+      "description": "Physiother Res Int",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975925/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42975925"
+    },
+    {
+      "id": "2a21a104a1eda98ff6772546",
+      "title": "Protocols for RNA-RNA Interaction Dataset Construction and Model Training.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955690/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42955690"
+    },
+    {
+      "id": "60eff6e36308ab4555479cdb",
+      "title": "Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955688/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42955688"
+    },
+    {
+      "id": "3d25928e9d7d713d4204d820",
+      "title": "Tutorial on Machine Learning Methods for RNA-RNA Interaction Prediction.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955678/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42955678"
+    },
+    {
+      "id": "cda869f605b25139a84f5877",
+      "title": "Comparative Analysis of Hyperparameter Optimization Strategies for RNA-RNA Interaction Prediction.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955675/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42955675"
+    },
+    {
+      "id": "4527018f2104f65a479308d8",
+      "title": "RRI-Senti: Transformer-Based Sentiment Analysis of Biomedical Literature for RNA-RNA Interaction Disease Insights.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955670/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42955670"
+    },
+    {
+      "id": "1bb047cc79269313ac04caa9",
+      "title": "Multimodal depression and anxiety severity prediction using convolutional Kepler ResNeXt and lightweight equilibrium BLSTM explainable AI.",
+      "description": "Psychiatry Res Neuroimaging",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950660/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42950660"
+    },
+    {
+      "id": "a4bef9ec8cbaa367fcb476a8",
+      "title": "Explainable artificial intelligence in clinical decision support systems: a systematic review of techniques, clinical applications, evaluation, and future directions.",
+      "description": "Int J Med Inform",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945747/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42945747"
+    },
+    {
+      "id": "a268e72a8a6b6bb5f8e33070",
+      "title": "Dietary Quality, Not Plant Content, in Metabolic Dysfunction-Associated Steatotic Liver Disease prevention: Reading the Confidence Interval Against the Prediction Interval.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42927164/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42927164"
+    },
+    {
+      "id": "26079520cf8d3a93528ae249",
+      "title": "Living-related-donor Liver Transplantation for Mitochondrial Neurogastrointestinal Encephalomyopathy.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42926803/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42926803"
+    },
+    {
+      "id": "c957513c4cbb2f4273c37c5c",
+      "title": "Exploring the Role of Single Nucleotide Polymorphisms in Modern Plant Genomic Research.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919017/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42919017"
+    },
+    {
+      "id": "f068274a58e769cb9026ceca",
+      "title": "Application of SSR Markers for the Detection of Metal Tolerance in Plants.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919014/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42919014"
+    },
+    {
+      "id": "ad3abc15520f16c3c0c4ab53",
+      "title": "Application of Sequence-Related Amplified Polymorphism (SRAP) Markers for Assessing Molecular Diversity of Trichoderma Associated with Biocontrol Potential Against Phytopathogen.",
+      "description": "Methods Mol Biol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919007/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42919007"
+    },
+    {
+      "id": "10b9f188c7477d4bcca4900c",
+      "title": "Sex-Stratified Analysis in Metabolic Dysfunction-Associated Steatotic Liver Disease Genetic Association Studies: A Missing Dimension.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903827/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42903827"
+    },
+    {
+      "id": "fc2fe032888cb7944f2ebad1",
+      "title": "A Survey on Terminology and Diagnostic Features of a Subgroup of Non-cirrhotic Portal Hypertension Patients: A Report from Asia-Pacific Experts.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893017/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42893017"
+    },
+    {
+      "id": "3d4d0026624585ba7fff3f8b",
+      "title": "Secure medical data sharing and brain tumor diagnosis using optimized encryption with blockchain-enabled multiscale channel attention residual network.",
+      "description": "Int J Med Inform",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874137/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42874137"
+    },
+    {
+      "id": "716b1223db7e1ceda5dd2444",
+      "title": "Trustworthy large language models for clinical diagnosis: a medical informatics review of evidence, safety, validation, and deployment readiness.",
+      "description": "Int J Med Inform",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863433/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42863433"
+    },
+    {
+      "id": "994dde3cf665ba085f26fcb7",
+      "title": "Integrating Cardiovascular Risk Assessment into Metabolic Dysfunction-associated Steatotic Liver Disease Drug Development.",
+      "description": "J Clin Exp Hepatol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42857154/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:20:51Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42857154"
+    }
+  ]
 }
