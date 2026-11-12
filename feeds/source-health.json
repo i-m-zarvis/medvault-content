@@ -1,69 +1,69 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T21:45:55Z",
+  "generatedAt": "2026-11-12T21:49:58Z",
   "sources": [
     {
       "id": "pib-health",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "durationSeconds": 1.32
+      "durationSeconds": 2.04
     },
     {
       "id": "pubmed-india-health",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
-      "lastSuccessAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
+      "lastSuccessAt": "2026-11-12T21:49:58Z",
       "itemCount": 50,
       "error": null,
-      "durationSeconds": 0.57
+      "durationSeconds": 0.81
     },
     {
       "id": "nbems-notice-board",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
       "lastSuccessAt": null,
       "itemCount": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://natboard.edu.in/deptnotice",
-      "durationSeconds": 0.08
+      "error": "RuntimeError: All configured HTML endpoints failed: https://webdisk.natboard.edu.in/allnotice.php: SSLError: HTTPSConnectionPool(host='webdisk.natboard.edu.in', port=443): Max retries exceeded with url: /allnotice.php (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate i | https://webdisk.natboard.edu.in/deptnotice: SSLError: HTTPSConnectionPool(host='webdisk.natboard.edu.in', port=443): Max retries exceeded with url: /dep",
+      "durationSeconds": 16.08
     },
     {
       "id": "mcc-pg-notices",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
       "lastSuccessAt": null,
       "itemCount": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/document-category/news-events/",
-      "durationSeconds": 0.27
+      "error": "RuntimeError: All configured HTML endpoints failed: https://mcc.nic.in/pg-medical-counselling/: HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/pg-medical-counselling/ | https://mcc.nic.in/archive-pg/: HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/archive-pg/",
+      "durationSeconds": 0.44
     },
     {
       "id": "mcc-ug-notices",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
       "lastSuccessAt": null,
       "itemCount": 0,
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/document-category/news-events/",
-      "durationSeconds": 0.02
+      "error": "RuntimeError: All configured HTML endpoints failed: https://mcc.nic.in/ug-medical-counselling/: HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/ug-medical-counselling/ | https://mcc.nic.in/archive-ug/: HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/archive-ug/",
+      "durationSeconds": 0.07
     },
     {
       "id": "nmc-notices",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
-      "lastSuccessAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
+      "lastSuccessAt": "2026-11-12T21:49:58Z",
       "itemCount": 6,
       "error": null,
-      "durationSeconds": 1.14
+      "durationSeconds": 1.31
     },
     {
       "id": "ddumhsac-exams",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:45:55Z",
-      "lastSuccessAt": "2026-11-12T21:45:55Z",
+      "lastAttemptAt": "2026-11-12T21:49:58Z",
+      "lastSuccessAt": "2026-11-12T21:49:58Z",
       "itemCount": 36,
       "error": null,
-      "durationSeconds": 2.65
+      "durationSeconds": 2.72
     }
   ]
 }
