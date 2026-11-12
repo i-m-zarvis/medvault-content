@@ -92,7 +92,18 @@
       "defaultCategory": "mbbs-updates",
       "maxItems": 100,
       "rowOnly": true,
-      "tableOnly": true
+      "tableOnly": true,
+      "categoryRules": [
+        {
+          "contains": [
+            "Postgraduate (PG)",
+            "PG seats",
+            "NEET-PG",
+            "NEET PG"
+          ],
+          "category": "neet-pg"
+        }
+      ]
     },
     {
       "id": "ddumhsac-exams",
@@ -107,7 +118,7 @@
       "categoryRules": [
         {
           "contains": [
-            "M.B.B.S.",
+            "M.B.B.S",
             "MBBS"
           ],
           "category": "mbbs-updates"
