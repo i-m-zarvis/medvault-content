@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "pib-health",
+      "name": "Press Information Bureau – Government of India",
+      "type": "rss",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+      "tier": "official",
+      "publisher": "Press Information Bureau, Government of India",
+      "enabled": true,
+      "defaultCategory": "medical-news",
+      "keywords": [
+        "health",
+        "medical",
+        "medicine",
+        "hospital",
+        "public health",
+        "disease",
+        "vaccination",
+        "healthcare",
+        "ICMR",
+        "medical education",
+        "Ayush"
+      ]
+    },
+    {
+      "id": "pubmed-india-health",
+      "name": "PubMed – India health research",
+      "type": "pubmed",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/",
+      "tier": "scientific",
+      "publisher": "National Library of Medicine / NCBI",
+      "enabled": true,
+      "defaultCategory": "trending-medicine",
+      "query": "(India[Affiliation] OR India[Title/Abstract]) AND (public health OR epidemiology OR healthcare OR medical education OR infectious disease)"
+    }
+  ],
+  "monitoredCandidates": [
+    {
+      "name": "National Medical Commission",
+      "url": "https://www.nmc.org.in/",
+      "tier": "official",
+      "status": "manual-monitoring"
+    },
+    {
+      "name": "National Board of Examinations in Medical Sciences",
+      "url": "https://natboard.edu.in/",
+      "tier": "official",
+      "status": "manual-monitoring"
+    },
+    {
+      "name": "Medical Counselling Committee",
+      "url": "https://mcc.nic.in/",
+      "tier": "official",
+      "status": "manual-monitoring"
+    },
+    {
+      "name": "Ministry of Health and Family Welfare",
+      "url": "https://mohfw.gov.in/",
+      "tier": "official",
+      "status": "manual-monitoring"
+    },
+    {
+      "name": "Indian Council of Medical Research",
+      "url": "https://www.icmr.gov.in/",
+      "tier": "official",
+      "status": "manual-monitoring"
+    }
+  ]
+}
