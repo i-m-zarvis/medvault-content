@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "exam-radar",
+      "title": "Exam Radar",
+      "maxItems": 100
+    },
+    {
+      "id": "neet-pg",
+      "title": "NEET PG Updates",
+      "maxItems": 100
+    },
+    {
+      "id": "mbbs-updates",
+      "title": "MBBS Updates",
+      "maxItems": 100
+    },
+    {
+      "id": "trending-medicine",
+      "title": "Trending in Medicine",
+      "maxItems": 100
+    },
+    {
+      "id": "medical-news",
+      "title": "Medical News Bulletin",
+      "maxItems": 100
+    }
+  ]
+}
