@@ -213,7 +213,23 @@ def collect_html(src):
             LOG.warning("%s endpoint failed (%s)", src["id"], page_url)
     raise RuntimeError("All configured HTML endpoints failed: " + " | ".join(failures)[:900])
 
-COLLECTORS = {"rss": collect_rss, "pubmed": collect_pubmed, "html": collect_html}
+def collect_curated(src):
+    """Publish explicitly curated outbound links without crawling the publisher."""
+    output = []
+    for entry in src.get("entries", [])[:int(src.get("maxItems", 100))]:
+        item = make_item(
+            src, entry.get("title"), entry.get("url"), entry.get("description"),
+            entry.get("publishedAt"), entry.get("id") or entry.get("url"),
+            entry.get("category") or src.get("defaultCategory", "medical-news")
+        )
+        if item:
+            item["tags"] = list(dict.fromkeys(item["tags"] + list(entry.get("tags", []))))
+            output.append(item)
+    return output
+
+
+COLLECTORS = {"rss": collect_rss, "pubmed": collect_pubmed, "html": collect_html,
+              "curated": collect_curated}
 
 def load_existing():
     merged = {}

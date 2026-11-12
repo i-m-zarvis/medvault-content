@@ -19,6 +19,7 @@ Automated, versioned content backend for MedVault Android. The repository is the
 
 ## Current Phase 1 foundation
 - Resilient RSS and PubMed adapters with bounded retries and timeouts.
+- Curated outbound resource links that do not crawl or republish third-party content.
 - Source-level health status in `feeds/source-health.json`.
 - Last-known-good feed preservation during source failures.
 - Publication date extraction for RSS and PubMed records.

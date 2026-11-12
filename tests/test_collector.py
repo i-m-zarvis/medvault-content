@@ -61,6 +61,22 @@ class CollectorTests(unittest.TestCase):
         self.assertEqual(items[0]["category"], "exam-radar")
         self.assertEqual(items[0]["url"], "https://webdisk.natboard.edu.in/notice.pdf")
 
+    def test_curated_source_publishes_only_configured_outbound_links(self):
+        source = {
+            "id": "neetpgai-free-guides", "name": "NEETPGAI – Free Study Guides",
+            "tier": "educational", "defaultCategory": "neet-pg",
+            "entries": [{
+                "id": "directory", "title": "Free study guides",
+                "description": "Browse the publisher's free study guide catalogue.",
+                "url": "https://neetpgai.com/neet-pg-study-material?exam=NEET-PG"
+            }]
+        }
+        items = collector.collect_curated(source)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["category"], "neet-pg")
+        self.assertEqual(items[0]["tier"], "educational")
+        self.assertEqual(items[0]["url"], "https://neetpgai.com/neet-pg-study-material?exam=NEET-PG")
+
     def test_make_item_requires_http_url(self):
         source = {"id": "s", "name": "Source", "tier": "official", "defaultCategory": "medical-news"}
         self.assertIsNone(collector.make_item(source, "Title", "file:///tmp/a"))
