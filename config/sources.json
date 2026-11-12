@@ -41,7 +41,7 @@
       "id": "nbems-notice-board",
       "name": "NBEMS Notice Board",
       "type": "html",
-      "url": "https://webdisk.natboard.edu.in/deptnotice",
+      "url": "https://natboard.edu.in/deptnotice",
       "tier": "official",
       "publisher": "National Board of Examinations in Medical Sciences",
       "enabled": true,
@@ -63,7 +63,7 @@
       "id": "mcc-pg-notices",
       "name": "MCC PG Counselling Notices",
       "type": "html",
-      "url": "https://mcc.nic.in/archive-pg/",
+      "url": "https://mcc.nic.in/document-category/news-events/",
       "tier": "official",
       "publisher": "Medical Counselling Committee, Directorate General of Health Services",
       "enabled": true,
@@ -74,7 +74,7 @@
       "id": "mcc-ug-notices",
       "name": "MCC UG Counselling Notices",
       "type": "html",
-      "url": "https://mcc.nic.in/archive-ug/",
+      "url": "https://mcc.nic.in/document-category/news-events/",
       "tier": "official",
       "publisher": "Medical Counselling Committee, Directorate General of Health Services",
       "enabled": true,
@@ -85,7 +85,7 @@
       "id": "nmc-notices",
       "name": "National Medical Commission – Notices",
       "type": "html",
-      "url": "https://www.nmc.org.in/information-desk/all-news/",
+      "url": "https://nmc.org.in/whats-new",
       "tier": "official",
       "publisher": "National Medical Commission, Government of India",
       "enabled": true,
@@ -101,17 +101,20 @@
       "publisher": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of Chhattisgarh",
       "enabled": true,
       "defaultCategory": "exam-radar",
-      "maxItems": 100,
+      "maxItems": 60,
       "categoryRules": [
         {
           "contains": [
             "M.B.B.S.",
-            "MBBS",
-            "Bachelor of Medicine",
-            "medical"
+            "MBBS"
           ],
           "category": "mbbs-updates"
         }
+      ],
+      "rowOnly": true,
+      "requiredKeywords": [
+        "MBBS",
+        "M.B.B.S"
       ]
     }
   ]

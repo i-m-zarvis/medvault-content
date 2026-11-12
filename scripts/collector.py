@@ -171,7 +171,12 @@ def collect_html(src):
         if any(term.casefold() in title.casefold() for term in src.get("excludeTitles", [])):
             continue
         row = anchor.find_parent(["tr", "li", "article"])
+        if src.get("rowOnly") and row is None:
+            continue
         context = clean(row.get_text(" ", strip=True)) if row else title
+        required = [term.casefold() for term in src.get("requiredKeywords", [])]
+        if required and not any(term in context.casefold() for term in required):
+            continue
         # Prefer links that represent an actual notice/document, not site navigation.
         path = urlparse(href).path.casefold()
         is_document = path.endswith((".pdf", ".doc", ".docx")) or any(
