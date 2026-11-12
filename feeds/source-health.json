@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T21:34:40Z",
+  "generatedAt": "2026-11-12T21:35:47Z",
   "sources": [
     {
       "id": "pib-health",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:34:40Z",
+      "lastAttemptAt": "2026-11-12T21:35:47Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "durationSeconds": 2.2
+      "durationSeconds": 1.74
     },
     {
       "id": "pubmed-india-health",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:34:40Z",
-      "lastSuccessAt": "2026-11-12T21:34:40Z",
+      "lastAttemptAt": "2026-11-12T21:35:47Z",
+      "lastSuccessAt": "2026-11-12T21:35:47Z",
       "itemCount": 50,
       "error": null,
-      "durationSeconds": 0.61
+      "durationSeconds": 0.93
     }
   ]
 }
