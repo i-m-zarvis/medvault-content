@@ -1,24 +1,69 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T21:35:47Z",
+  "generatedAt": "2026-11-12T21:40:21Z",
   "sources": [
     {
       "id": "pib-health",
       "status": "failed",
-      "lastAttemptAt": "2026-11-12T21:35:47Z",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
       "lastSuccessAt": null,
       "itemCount": 0,
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "durationSeconds": 1.74
+      "durationSeconds": 1.8
     },
     {
       "id": "pubmed-india-health",
       "status": "healthy",
-      "lastAttemptAt": "2026-11-12T21:35:47Z",
-      "lastSuccessAt": "2026-11-12T21:35:47Z",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": "2026-11-12T21:40:21Z",
       "itemCount": 50,
       "error": null,
-      "durationSeconds": 0.93
+      "durationSeconds": 0.5
+    },
+    {
+      "id": "nbems-notice-board",
+      "status": "failed",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": null,
+      "itemCount": 0,
+      "error": "SSLError: HTTPSConnectionPool(host='webdisk.natboard.edu.in', port=443): Max retries exceeded with url: /deptnotice (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webdisk.natboard.edu.in'. (_ssl.c:1011)\")))",
+      "durationSeconds": 8.3
+    },
+    {
+      "id": "mcc-pg-notices",
+      "status": "failed",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": null,
+      "itemCount": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/archive-pg/",
+      "durationSeconds": 0.3
+    },
+    {
+      "id": "mcc-ug-notices",
+      "status": "failed",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": null,
+      "itemCount": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://mcc.nic.in/archive-ug/",
+      "durationSeconds": 0.02
+    },
+    {
+      "id": "nmc-notices",
+      "status": "failed",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": null,
+      "itemCount": 0,
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://nmc.org.in:443/information-desk/all-news",
+      "durationSeconds": 2.11
+    },
+    {
+      "id": "ddumhsac-exams",
+      "status": "healthy",
+      "lastAttemptAt": "2026-11-12T21:40:21Z",
+      "lastSuccessAt": "2026-11-12T21:40:21Z",
+      "itemCount": 186,
+      "error": null,
+      "durationSeconds": 2.05
     }
   ]
 }

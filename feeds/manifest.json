@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T21:35:47Z",
+  "generatedAt": "2026-11-12T21:40:21Z",
   "scope": "india-health",
   "feeds": [
     {
       "id": "exam-radar",
       "title": "Exam Radar",
       "path": "feeds/exam-radar.json",
-      "count": 0
+      "count": 100
     },
     {
       "id": "neet-pg",
@@ -19,7 +19,7 @@
       "id": "mbbs-updates",
       "title": "MBBS Updates",
       "path": "feeds/mbbs-updates.json",
-      "count": 0
+      "count": 47
     },
     {
       "id": "trending-medicine",
