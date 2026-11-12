@@ -32,7 +32,7 @@ def clean(value):
     if value is None:
         return None
     value = re.sub(r"<[^>]+>", " ", str(value))
-    value = re.sub(r"\\s+", " ", value).strip()
+    value = re.sub(r"\s+", " ", value).strip()
     return value or None
 
 def safe_url(value):
@@ -54,7 +54,7 @@ def date_to_iso(value):
             return datetime.strptime(value[:len(datetime.now().strftime(fmt))], fmt).replace(tzinfo=UTC).isoformat().replace("+00:00", "Z")
         except (ValueError, TypeError):
             pass
-    return value if re.match(r"^\\d{4}-\\d{2}-\\d{2}T", value) else None
+    return value if re.match(r"^\d{4}-\d{2}-\d{2}T", value) else None
 
 def entry_date(entry):
     for key in ("published_parsed", "updated_parsed"):
