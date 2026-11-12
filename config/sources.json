@@ -118,6 +118,16 @@
       "categoryRules": [
         {
           "contains": [
+            "Time Table",
+            "Time-Table",
+            "Exam Date",
+            "Exam Form",
+            "Examination"
+          ],
+          "category": "exam-radar"
+        },
+        {
+          "contains": [
             "M.B.B.S",
             "MBBS"
           ],
