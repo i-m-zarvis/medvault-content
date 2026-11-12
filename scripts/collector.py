@@ -87,6 +87,6 @@ def main():
         selected=[x for x in ordered if x["category"]==cat["id"]][:cat["maxItems"]]
         (ROOT/f'feeds/{cat["id"]}.json').write_text(json.dumps({"category":cat["id"],"updatedAt":NOW,"items":selected},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
         manifest.append({"id":cat["id"],"title":cat["title"],"path":f'feeds/{cat["id"]}.json',"count":len(selected)})
-    (ROOT/"feeds/manifest.json").write_text(json.dumps({"schemaVersion":1,"generatedAt":NOW,"scope":"india-health","feeds":manifest},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+    (ROOT/"feeds/manifest.json").write_text(json.dumps({"schemaVersion":1,"generatedAt":NOW,"scope":"india-health","feeds":manifest},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     if failures: print("Non-fatal source failures:",json.dumps(failures,indent=2))
 if __name__=="__main__": main()
