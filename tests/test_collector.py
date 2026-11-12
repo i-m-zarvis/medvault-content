@@ -19,6 +19,16 @@ class CollectorTests(unittest.TestCase):
     def test_clean_whitespace(self):
         self.assertEqual(collector.clean("  beta\n  blocker "), "beta blocker")
 
+    def test_extract_date_formats(self):
+        self.assertEqual(collector.extract_date("Notice dated 12.11.2026"), "2026-11-12T00:00:00Z")
+        self.assertEqual(collector.extract_date("Dated 2026-11-12"), "2026-11-12T00:00:00Z")
+
+    def test_category_routing(self):
+        source = {"defaultCategory": "exam-radar", "categoryRules": [
+            {"contains": ["NEET PG"], "category": "neet-pg"}]}
+        self.assertEqual(collector.route_category(source, "NEET PG 2026 notice"), "neet-pg")
+        self.assertEqual(collector.route_category(source, "University timetable"), "exam-radar")
+
     def test_make_item_requires_http_url(self):
         source = {"id": "s", "name": "Source", "tier": "official", "defaultCategory": "medical-news"}
         self.assertIsNone(collector.make_item(source, "Title", "file:///tmp/a"))

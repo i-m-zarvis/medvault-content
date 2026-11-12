@@ -6,6 +6,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 import feedparser, requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -124,7 +126,79 @@ def collect_pubmed(src):
             output.append(item)
     return output
 
-COLLECTORS = {"rss": collect_rss, "pubmed": collect_pubmed}
+
+DATE_PATTERNS = [
+    re.compile(r"\\b(\\d{4}-\\d{2}-\\d{2})\\b"),
+    re.compile(r"\\b(\\d{2}[-/]\\d{2}[-/]\\d{4})\\b"),
+    re.compile(r"\\b(\\d{1,2}\\s+[A-Za-z]{3,9}\\s+\\d{4})\\b"),
+    re.compile(r"\\b([A-Za-z]{3,9}\\s+\\d{1,2},?\\s+\\d{4})\\b")
+]
+
+def extract_date(text):
+    text = clean(text) or ""
+    for pattern in DATE_PATTERNS:
+        match = pattern.search(text)
+        if not match:
+            continue
+        raw = match.group(1)
+        for fmt in ("%Y-%m-%d", "%d-%m-%Y", "%d/%m/%Y", "%d %b %Y",
+                    "%d %B %Y", "%b %d, %Y", "%B %d, %Y", "%b %d %Y", "%B %d %Y"):
+            try:
+                return datetime.strptime(raw, fmt).replace(tzinfo=UTC).isoformat().replace("+00:00", "Z")
+            except ValueError:
+                pass
+    return None
+
+def route_category(src, title):
+    text = (title or "").casefold()
+    for rule in src.get("categoryRules", []):
+        if any(term.casefold() in text for term in rule.get("contains", [])):
+            return rule["category"]
+    return src.get("defaultCategory", "medical-news")
+
+def collect_html(src):
+    response = SESSION.get(src["url"], timeout=(10, 35))
+    response.raise_for_status()
+    soup = BeautifulSoup(response.content, "html.parser")
+    output, seen_urls = [], set()
+    for anchor in soup.find_all("a", href=True):
+        title = clean(anchor.get_text(" ", strip=True))
+        href = safe_url(urljoin(src["url"], anchor["href"]))
+        if not title or not href or href in seen_urls:
+            continue
+        if href.startswith(("mailto:", "javascript:")):
+            continue
+        if any(term.casefold() in title.casefold() for term in src.get("excludeTitles", [])):
+            continue
+        row = anchor.find_parent(["tr", "li", "article"])
+        context = clean(row.get_text(" ", strip=True)) if row else title
+        # Prefer links that represent an actual notice/document, not site navigation.
+        path = urlparse(href).path.casefold()
+        is_document = path.endswith((".pdf", ".doc", ".docx")) or any(
+            token in title.casefold() for token in ("notice", "circular", "result", "schedule",
+                "timetable", "time table", "examination", "notification", "bulletin",
+                "counselling", "counseling", "seat matrix", "public notice", "date sheet")
+        )
+        if not is_document:
+            continue
+        if len(title) < 8 or title.casefold() in {"view", "download", "click here", "read more"}:
+            title = context
+        if not title or len(title) < 8:
+            continue
+        if src.get("keywords") and not any(k.casefold() in context.casefold() for k in src["keywords"]):
+            continue
+        published_at = extract_date(context) or extract_date(title)
+        item = make_item(src, title, href, context if context != title else None,
+                         published_at, href, route_category(src, title))
+        if item:
+            output.append(item)
+            seen_urls.add(href)
+    # Empty extraction is a source failure, not a successful empty feed.
+    if not output:
+        raise RuntimeError("No notice/document links extracted; page structure may have changed")
+    return output
+
+COLLECTORS = {"rss": collect_rss, "pubmed": collect_pubmed, "html": collect_html}
 
 def load_existing():
     merged = {}

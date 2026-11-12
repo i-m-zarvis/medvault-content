@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "sources": [
     {
       "id": "pib-health",
@@ -11,7 +11,19 @@
       "enabled": true,
       "defaultCategory": "medical-news",
       "maxItems": 100,
-      "keywords": ["health", "medical", "medicine", "hospital", "public health", "disease", "vaccination", "healthcare", "ICMR", "medical education", "Ayush"]
+      "keywords": [
+        "health",
+        "medical",
+        "medicine",
+        "hospital",
+        "public health",
+        "disease",
+        "vaccination",
+        "healthcare",
+        "ICMR",
+        "medical education",
+        "Ayush"
+      ]
     },
     {
       "id": "pubmed-india-health",
@@ -24,6 +36,83 @@
       "defaultCategory": "trending-medicine",
       "maxItems": 50,
       "query": "(India[Affiliation] OR India[Title/Abstract]) AND (public health OR epidemiology OR healthcare OR medical education OR infectious disease)"
+    },
+    {
+      "id": "nbems-notice-board",
+      "name": "NBEMS Notice Board",
+      "type": "html",
+      "url": "https://webdisk.natboard.edu.in/deptnotice",
+      "tier": "official",
+      "publisher": "National Board of Examinations in Medical Sciences",
+      "enabled": true,
+      "defaultCategory": "exam-radar",
+      "maxItems": 100,
+      "categoryRules": [
+        {
+          "contains": [
+            "NEET-PG",
+            "NEET PG",
+            "NEET-PG",
+            "INI-CET"
+          ],
+          "category": "neet-pg"
+        }
+      ]
+    },
+    {
+      "id": "mcc-pg-notices",
+      "name": "MCC PG Counselling Notices",
+      "type": "html",
+      "url": "https://mcc.nic.in/archive-pg/",
+      "tier": "official",
+      "publisher": "Medical Counselling Committee, Directorate General of Health Services",
+      "enabled": true,
+      "defaultCategory": "neet-pg",
+      "maxItems": 100
+    },
+    {
+      "id": "mcc-ug-notices",
+      "name": "MCC UG Counselling Notices",
+      "type": "html",
+      "url": "https://mcc.nic.in/archive-ug/",
+      "tier": "official",
+      "publisher": "Medical Counselling Committee, Directorate General of Health Services",
+      "enabled": true,
+      "defaultCategory": "exam-radar",
+      "maxItems": 100
+    },
+    {
+      "id": "nmc-notices",
+      "name": "National Medical Commission – Notices",
+      "type": "html",
+      "url": "https://www.nmc.org.in/information-desk/all-news/",
+      "tier": "official",
+      "publisher": "National Medical Commission, Government of India",
+      "enabled": true,
+      "defaultCategory": "mbbs-updates",
+      "maxItems": 100
+    },
+    {
+      "id": "ddumhsac-exams",
+      "name": "DDUMHSAC University Examination Notices",
+      "type": "html",
+      "url": "https://www.ddumhsaucg.ac.in/time_table.php",
+      "tier": "official",
+      "publisher": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University of Chhattisgarh",
+      "enabled": true,
+      "defaultCategory": "exam-radar",
+      "maxItems": 100,
+      "categoryRules": [
+        {
+          "contains": [
+            "M.B.B.S.",
+            "MBBS",
+            "Bachelor of Medicine",
+            "medical"
+          ],
+          "category": "mbbs-updates"
+        }
+      ]
     }
   ]
 }
