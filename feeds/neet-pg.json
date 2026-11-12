@@ -1,7 +1,29 @@
 {
   "category": "neet-pg",
-  "updatedAt": "2026-11-12T21:49:58Z",
+  "updatedAt": "2026-11-12T22:00:53Z",
   "items": [
+    {
+      "id": "ea3e40d9a5bc1067895a69bf",
+      "title": "NEETPGAI – Free NEET PG, INI-CET & FMGE Study Guides",
+      "description": "Browse the publisher's free catalogue of medical topic guides, clinical cases, image-question resources and exam-preparation articles. Content opens on the original NEETPGAI website.",
+      "url": "https://neetpgai.com/neet-pg-study-material?exam=NEET-PG",
+      "imageUrl": null,
+      "sourceId": "neetpgai-free-guides",
+      "sourceName": "NEETPGAI – Free Study Guides",
+      "publisher": "NEETPGAI",
+      "tier": "educational",
+      "category": "neet-pg",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T22:00:53Z",
+      "tags": [
+        "NEET PG",
+        "INI-CET",
+        "FMGE",
+        "study guides",
+        "external resource"
+      ],
+      "externalId": "study-material-directory"
+    },
     {
       "id": "f5429234aad597901f0b2e5c",
       "title": "06/11/2026 - Publication of Updated Seat Matrix for Postgraduate (PG) Broad Speciality Courses for the Academic Year 2026–27",
@@ -14,7 +36,7 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-12T21:49:58Z",
+      "collectedAt": "2026-11-12T22:00:53Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1884"
     },
@@ -30,7 +52,7 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-11-12T21:49:58Z",
+      "collectedAt": "2026-11-12T22:00:53Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1871"
     }
