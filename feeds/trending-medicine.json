@@ -1,6 +1,6 @@
 {
   "category": "trending-medicine",
-  "updatedAt": "2026-11-12T21:20:51Z",
+  "updatedAt": "2026-11-12T21:34:40Z",
   "items": [
     {
       "id": "85fa7a4edcee37c8b1bb90fd",
@@ -13,8 +13,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-12-31T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -32,8 +32,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-04-26T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -51,8 +51,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-03-01T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -70,8 +70,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -89,8 +89,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -108,8 +108,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -127,8 +127,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -146,8 +146,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -165,32 +165,13 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-05T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42800130"
-    },
-    {
-      "id": "3625cc703f2823b8219e38c9",
-      "title": "Beyond myocardial infarction: Point-of-care cardiac troponin biosensors for heart failure prognosis and remote monitoring.",
-      "description": "Bioelectrochemistry",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42612493/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42612493"
     },
     {
       "id": "49bfec699bbfc2bbfa2ebe4d",
@@ -203,8 +184,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-01T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -222,8 +203,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-01T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -241,8 +222,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-01T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -260,8 +241,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-02-01T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -279,8 +260,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-16T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -298,8 +279,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -317,8 +298,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -336,8 +317,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -355,8 +336,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -374,8 +355,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -393,8 +374,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -412,8 +393,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -431,8 +412,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -450,8 +431,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -469,8 +450,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-15T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -488,8 +469,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-07T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -507,8 +488,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-05T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -526,8 +507,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-05T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -545,8 +526,8 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-05T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -564,13 +545,32 @@
       "publisher": "National Library of Medicine / NCBI",
       "tier": "scientific",
       "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "publishedAt": "2027-01-02T00:00:00Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42767059"
+    },
+    {
+      "id": "3625cc703f2823b8219e38c9",
+      "title": "Beyond myocardial infarction: Point-of-care cardiac troponin biosensors for heart failure prognosis and remote monitoring.",
+      "description": "Bioelectrochemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612493/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-12T21:34:40Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42612493"
     },
     {
       "id": "273f93ae71f665b962bf0b1c",
@@ -584,7 +584,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -603,7 +603,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -622,7 +622,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -641,7 +641,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -660,7 +660,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -679,7 +679,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -698,7 +698,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -717,7 +717,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -736,7 +736,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -755,7 +755,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -774,7 +774,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -793,7 +793,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -812,7 +812,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -831,7 +831,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -850,7 +850,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -869,7 +869,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -888,7 +888,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -907,7 +907,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -926,7 +926,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
@@ -945,7 +945,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-12T21:20:51Z",
+      "collectedAt": "2026-11-12T21:34:40Z",
       "tags": [
         "research",
         "pubmed"
