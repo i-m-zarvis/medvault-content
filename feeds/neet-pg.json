@@ -1,6 +1,6 @@
 {
   "category": "neet-pg",
-  "updatedAt": "2026-11-14T02:33:41Z",
+  "updatedAt": "2026-11-14T09:36:00Z",
   "items": [
     {
       "id": "ea3e40d9a5bc1067895a69bf",
@@ -14,7 +14,7 @@
       "tier": "educational",
       "category": "neet-pg",
       "publishedAt": null,
-      "collectedAt": "2026-11-14T02:33:41Z",
+      "collectedAt": "2026-11-14T09:36:00Z",
       "tags": [
         "NEET PG",
         "INI-CET",
@@ -36,7 +36,7 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-14T02:33:41Z",
+      "collectedAt": "2026-11-14T09:36:00Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1884"
     },
@@ -52,7 +52,7 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-11-14T02:33:41Z",
+      "collectedAt": "2026-11-14T09:36:00Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1871"
     }
