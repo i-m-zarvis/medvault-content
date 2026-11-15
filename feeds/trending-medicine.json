@@ -1,6 +1,6 @@
 {
   "category": "trending-medicine",
-  "updatedAt": "2026-11-15T00:32:18Z",
+  "updatedAt": "2026-11-15T07:19:36Z",
   "items": [
     {
       "id": "85fa7a4edcee37c8b1bb90fd",
@@ -14,7 +14,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-12-31T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -33,7 +33,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-04-26T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -52,12 +52,88 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-03-01T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42933159"
+    },
+    {
+      "id": "0257dc0db31340e588ed72df",
+      "title": "An 8-hydroxyjulolidine-phenanthroline dyad as a chemodosimeter for nerve agent mimic DCP: Sensing performance and potential applications.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962517/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42962517"
+    },
+    {
+      "id": "1c6532af62b17f4f6ffec5e8",
+      "title": "Leveraging infrared spectral signatures supported by machine learning to evaluate the patency of coronary artery bypass graft conduits: A preliminary study.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893674/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42893674"
+    },
+    {
+      "id": "9d9d54abe4ae5eb716e0063d",
+      "title": "Ultrasensitive optical fiber LSPR biosensor functionalized with gold nanorods, KMO nanoflowers, and ZnCdS/ZnS quantum dots for maduramicin detection.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863143/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42863143"
+    },
+    {
+      "id": "77d22be552ba8c87e15beff8",
+      "title": "Simulation-based integration of an advanced spectroscopic refractive index biosensor via machine learning algorithms for detection of different concentrations of sucrose.",
+      "description": "Spectrochim Acta A Mol Biomol Spectrosc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42854521/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-15T00:00:00Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42854521"
     },
     {
       "id": "2c15be7fb6c0f8d6aa4ce438",
@@ -71,7 +147,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -90,7 +166,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -109,7 +185,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -128,7 +204,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -147,7 +223,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -166,7 +242,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-05T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -185,7 +261,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -204,7 +280,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -223,7 +299,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -242,7 +318,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -261,7 +337,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-16T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -280,7 +356,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -299,7 +375,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -318,7 +394,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -337,7 +413,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -356,7 +432,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -375,7 +451,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -394,7 +470,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -413,7 +489,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -432,7 +508,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -451,7 +527,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -470,7 +546,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-07T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -489,7 +565,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -508,7 +584,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -527,7 +603,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -546,12 +622,88 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-02T00:00:00Z",
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42767059"
+    },
+    {
+      "id": "701d5699a3dbb28c7850262c",
+      "title": "Bulk and single-cell transcriptomics identify tumor-specific epithelial PSAT1 as a ferroptosis-associated therapeutic target in cervical cancer.",
+      "description": "Comput Biol Chem",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828974/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42828974"
+    },
+    {
+      "id": "da74f9c10eec5fc1130a9180",
+      "title": "Algorand-proof-of-stake blockchain based-digitalized healthcare data security using protected smart contract and behavioural analyzation.",
+      "description": "Comput Biol Chem",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828973/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42828973"
+    },
+    {
+      "id": "888f62c83d69f2053f69a420",
+      "title": "DK-FocalNeXt: Deep Kronecker based FocalNeXt for skin cancer classification using dermoscopic images.",
+      "description": "Comput Biol Chem",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800395/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42800395"
+    },
+    {
+      "id": "1b1cf280d659af5e182de765",
+      "title": "In silico investigation of valproic acid mediated GSK-3β inhibition and therapeutic mitigation of radiation induced intestinal injury.",
+      "description": "Comput Biol Chem",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748631/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42748631"
     },
     {
       "id": "3625cc703f2823b8219e38c9",
@@ -565,12 +717,69 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42612493"
+    },
+    {
+      "id": "ef5c429b65b6dacb7de2f941",
+      "title": "Integrative Genomic and Stem Cell Frameworks for Variant-to-Function Discovery in Autism Spectrum Disorder: A Narrative Review.",
+      "description": "Dev Neurobiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033407/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43033407"
+    },
+    {
+      "id": "73222584a5eb3f754004312a",
+      "title": "Potter-Optimized Multiscale Bayesian Gated Axial Quantized Attention Network for Robust Multichannel EEG-ECG-Based Seizure Prediction.",
+      "description": "Dev Neurobiol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033403/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43033403"
+    },
+    {
+      "id": "0d77e714ee00edeb4758a084",
+      "title": "Home sweet home-a breath full of fresh air or a lungful of woes: A cross-sectional study to explore determinants of indoor air pollution and factors influencing the use of unclean fuels.",
+      "description": "J Allergy Clin Immunol Glob",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032651/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-15T07:19:36Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43032651"
     },
     {
       "id": "273f93ae71f665b962bf0b1c",
@@ -584,7 +793,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -603,7 +812,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -622,7 +831,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -641,7 +850,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -660,7 +869,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -679,7 +888,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -698,7 +907,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -717,7 +926,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
@@ -736,221 +945,12 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
+      "collectedAt": "2026-11-15T07:19:36Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42955675"
-    },
-    {
-      "id": "4527018f2104f65a479308d8",
-      "title": "RRI-Senti: Transformer-Based Sentiment Analysis of Biomedical Literature for RNA-RNA Interaction Disease Insights.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955670/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42955670"
-    },
-    {
-      "id": "1bb047cc79269313ac04caa9",
-      "title": "Multimodal depression and anxiety severity prediction using convolutional Kepler ResNeXt and lightweight equilibrium BLSTM explainable AI.",
-      "description": "Psychiatry Res Neuroimaging",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42950660/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42950660"
-    },
-    {
-      "id": "a4bef9ec8cbaa367fcb476a8",
-      "title": "Explainable artificial intelligence in clinical decision support systems: a systematic review of techniques, clinical applications, evaluation, and future directions.",
-      "description": "Int J Med Inform",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945747/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42945747"
-    },
-    {
-      "id": "a268e72a8a6b6bb5f8e33070",
-      "title": "Dietary Quality, Not Plant Content, in Metabolic Dysfunction-Associated Steatotic Liver Disease prevention: Reading the Confidence Interval Against the Prediction Interval.",
-      "description": "J Clin Exp Hepatol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42927164/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42927164"
-    },
-    {
-      "id": "26079520cf8d3a93528ae249",
-      "title": "Living-related-donor Liver Transplantation for Mitochondrial Neurogastrointestinal Encephalomyopathy.",
-      "description": "J Clin Exp Hepatol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42926803/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42926803"
-    },
-    {
-      "id": "62ad70876cafc97bfbe249be",
-      "title": "Evaluation of Ceftriaxone-Sulbactam-EDTA against Carbapenem-resistant Enterobacterales and non-fermenters: correlating in vitro susceptibility with molecular detection of carbapenemase genes by Xpert Carba-R.",
-      "description": "Diagn Microbiol Infect Dis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925659/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42925659"
-    },
-    {
-      "id": "c957513c4cbb2f4273c37c5c",
-      "title": "Exploring the Role of Single Nucleotide Polymorphisms in Modern Plant Genomic Research.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919017/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42919017"
-    },
-    {
-      "id": "f068274a58e769cb9026ceca",
-      "title": "Application of SSR Markers for the Detection of Metal Tolerance in Plants.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919014/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42919014"
-    },
-    {
-      "id": "ad3abc15520f16c3c0c4ab53",
-      "title": "Application of Sequence-Related Amplified Polymorphism (SRAP) Markers for Assessing Molecular Diversity of Trichoderma Associated with Biocontrol Potential Against Phytopathogen.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42919007/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42919007"
-    },
-    {
-      "id": "c968612eeaf4af56e6cb8d97",
-      "title": "Screening of campylobacter by Gram staining and culture confirmation in diarrheal stool: a qualitative study.",
-      "description": "Diagn Microbiol Infect Dis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906518/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42906518"
-    },
-    {
-      "id": "10b9f188c7477d4bcca4900c",
-      "title": "Sex-Stratified Analysis in Metabolic Dysfunction-Associated Steatotic Liver Disease Genetic Association Studies: A Missing Dimension.",
-      "description": "J Clin Exp Hepatol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903827/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-15T00:32:18Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42903827"
     }
   ]
 }
