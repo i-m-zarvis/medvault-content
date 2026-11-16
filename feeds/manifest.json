@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T07:26:35Z",
+  "generatedAt": "2026-11-16T17:37:24Z",
   "scope": "india-health",
   "feeds": [
     {
@@ -19,7 +19,7 @@
       "id": "mbbs-updates",
       "title": "MBBS Updates",
       "path": "feeds/mbbs-updates.json",
-      "count": 20
+      "count": 19
     },
     {
       "id": "trending-medicine",
