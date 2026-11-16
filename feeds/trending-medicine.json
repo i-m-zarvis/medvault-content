@@ -1,6 +1,6 @@
 {
   "category": "trending-medicine",
-  "updatedAt": "2026-11-16T00:29:58Z",
+  "updatedAt": "2026-11-16T07:26:35Z",
   "items": [
     {
       "id": "85fa7a4edcee37c8b1bb90fd",
@@ -14,7 +14,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-12-31T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -33,7 +33,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-04-26T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -52,7 +52,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-03-01T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -71,7 +71,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -90,7 +90,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -109,7 +109,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -128,7 +128,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -147,7 +147,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -166,7 +166,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -185,7 +185,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -204,7 +204,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -223,12 +223,50 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42570835"
+    },
+    {
+      "id": "bd7c0609e7b0bfe287b64dab",
+      "title": "Efficacy and safety of Centella asiatica in wound healing: A systematic review and meta-analysis.",
+      "description": "J Ethnopharmacol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42772613/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-10T00:00:00Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42772613"
+    },
+    {
+      "id": "7a81072932602324a8bc3049",
+      "title": "Herbal medicine among vulnerable populations in Cameroon: a systematic review and meta-analysis with clinical, mechanistic, and global health perspectives.",
+      "description": "J Ethnopharmacol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767407/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": "2027-02-10T00:00:00Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42767407"
     },
     {
       "id": "1bf9bc6a97fcc9e6cb788b83",
@@ -242,7 +280,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-05T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -261,7 +299,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -280,7 +318,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -299,7 +337,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -318,7 +356,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -337,7 +375,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-16T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -356,7 +394,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -375,7 +413,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -394,7 +432,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -413,7 +451,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -432,7 +470,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -451,7 +489,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -470,7 +508,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -489,7 +527,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -508,7 +546,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -527,7 +565,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -546,7 +584,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-07T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -565,7 +603,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -584,7 +622,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -603,7 +641,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -622,12 +660,31 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-02T00:00:00Z",
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42767059"
+    },
+    {
+      "id": "075ee5c2ddb6560c6f2f4d5e",
+      "title": "Tempered fractional rabies dynamics with deep neural surrogate modeling: Analysis, computation, and prediction.",
+      "description": "Neural Netw",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925622/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-16T07:26:35Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42925622"
     },
     {
       "id": "701d5699a3dbb28c7850262c",
@@ -641,7 +698,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -660,7 +717,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -679,7 +736,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -698,7 +755,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -717,7 +774,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -736,7 +793,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -755,7 +812,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -774,7 +831,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -793,7 +850,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -812,7 +869,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -831,7 +888,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -850,7 +907,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -869,7 +926,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
@@ -888,69 +945,12 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
+      "collectedAt": "2026-11-16T07:26:35Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42955690"
-    },
-    {
-      "id": "60eff6e36308ab4555479cdb",
-      "title": "Benchmarking, Reproducibility, and FAIR Pipelines for RNA-RNA Interaction Prediction.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955688/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42955688"
-    },
-    {
-      "id": "3d25928e9d7d713d4204d820",
-      "title": "Tutorial on Machine Learning Methods for RNA-RNA Interaction Prediction.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955678/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42955678"
-    },
-    {
-      "id": "cda869f605b25139a84f5877",
-      "title": "Comparative Analysis of Hyperparameter Optimization Strategies for RNA-RNA Interaction Prediction.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955675/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-16T00:29:58Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42955675"
     }
   ]
 }
