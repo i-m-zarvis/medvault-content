@@ -1,6 +1,6 @@
 {
   "category": "trending-medicine",
-  "updatedAt": "2026-11-17T01:14:03Z",
+  "updatedAt": "2026-11-17T09:23:04Z",
   "items": [
     {
       "id": "85fa7a4edcee37c8b1bb90fd",
@@ -14,31 +14,12 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-12-31T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42842760"
-    },
-    {
-      "id": "0b5e139af8d6b850a9f1f195",
-      "title": "State of the global tuberculosis epidemic: burden, progress towards WHO End TB Strategy targets and systemic challenges.",
-      "description": "Lancet Microbe",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42526488/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": "2027-04-26T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42526488"
     },
     {
       "id": "827d5527850f5c9197c6219a",
@@ -52,7 +33,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-03-01T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -71,7 +52,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -90,7 +71,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -109,7 +90,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -128,7 +109,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -147,7 +128,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -166,7 +147,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -185,7 +166,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -204,7 +185,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -223,7 +204,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -242,7 +223,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-10T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -261,7 +242,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-10T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -280,7 +261,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-05T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -299,7 +280,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -318,7 +299,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -337,7 +318,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -356,7 +337,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-02-01T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -375,7 +356,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-16T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -394,7 +375,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -413,7 +394,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -432,7 +413,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -451,7 +432,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -470,7 +451,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -489,7 +470,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -508,7 +489,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -527,7 +508,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -546,7 +527,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -565,7 +546,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-15T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -584,7 +565,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-07T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -603,7 +584,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -622,7 +603,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -641,7 +622,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-05T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -660,12 +641,31 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": "2027-01-02T00:00:00Z",
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42767059"
+    },
+    {
+      "id": "5a6b41163afb557d27a56054",
+      "title": "Risk Factors for Progression in Hypertrophic Cardiomyopathy.",
+      "description": "Cardiol Clin",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43039633/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-17T09:23:04Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "43039633"
     },
     {
       "id": "075ee5c2ddb6560c6f2f4d5e",
@@ -679,12 +679,50 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42925622"
+    },
+    {
+      "id": "0b4fec4af41dc9742a3aef79",
+      "title": "Spatial transcriptomic profiling of macroregenerative and high-grade dysplastic nodules in cirrhotic liver: A pilot study.",
+      "description": "Ann Diagn Pathol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863393/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-17T09:23:04Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42863393"
+    },
+    {
+      "id": "c6adbf264abd610344d6b793",
+      "title": "Diagnostic pitfalls in site-of-origin immunohistochemistry for metastatic carcinoma: Aberrant expression and loss of lineage-associated markers.",
+      "description": "Ann Diagn Pathol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833184/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-17T09:23:04Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42833184"
     },
     {
       "id": "701d5699a3dbb28c7850262c",
@@ -698,7 +736,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -717,12 +755,31 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42828973"
+    },
+    {
+      "id": "8162722561f3225edd44745c",
+      "title": "Histopathologic and immunophenotypic features distinguishing recurrent primary biliary cholangitis from liver allograft rejection.",
+      "description": "Ann Diagn Pathol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804955/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-17T09:23:04Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42804955"
     },
     {
       "id": "888f62c83d69f2053f69a420",
@@ -736,7 +793,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -755,12 +812,31 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "42748631"
+    },
+    {
+      "id": "f688fa2890bfee148b152200",
+      "title": "Clinicopathological predictors of radioiodine response in differentiated high-grade thyroid carcinoma.",
+      "description": "Ann Diagn Pathol",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705978/",
+      "imageUrl": null,
+      "sourceId": "pubmed-india-health",
+      "sourceName": "PubMed – India health research",
+      "publisher": "National Library of Medicine / NCBI",
+      "tier": "scientific",
+      "category": "trending-medicine",
+      "publishedAt": null,
+      "collectedAt": "2026-11-17T09:23:04Z",
+      "tags": [
+        "research",
+        "pubmed"
+      ],
+      "externalId": "42705978"
     },
     {
       "id": "3625cc703f2823b8219e38c9",
@@ -774,7 +850,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -793,7 +869,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -812,7 +888,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -831,7 +907,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -850,7 +926,7 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
@@ -869,88 +945,12 @@
       "tier": "scientific",
       "category": "trending-medicine",
       "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
+      "collectedAt": "2026-11-17T09:23:04Z",
       "tags": [
         "research",
         "pubmed"
       ],
       "externalId": "43001267"
-    },
-    {
-      "id": "13714277b2628a4b111c1712",
-      "title": "Integrating Tummy Time Into Routine NICU Care: Healthcare Workers' Perspectives on Long-Term Implementation in India.",
-      "description": "Physiother Res Int",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42975925/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42975925"
-    },
-    {
-      "id": "782991bb02dabfe85df21a27",
-      "title": "Fungal biofilm-associated infections in immunocompromised African populations: A narrative review of Candidozyma auris emergence, antifungal resistance mechanisms, and laboratory detection algorithms.",
-      "description": "Diagn Microbiol Infect Dis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966286/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42966286"
-    },
-    {
-      "id": "c0870928c966f6680a54c744",
-      "title": "Rapid visual and direct detection of Acinetobacter baumannii and carbapenem resistance by oligoDNA-gold nanoparticles biosensor in clinical samples.",
-      "description": "Diagn Microbiol Infect Dis",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42956625/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42956625"
-    },
-    {
-      "id": "2a21a104a1eda98ff6772546",
-      "title": "Protocols for RNA-RNA Interaction Dataset Construction and Model Training.",
-      "description": "Methods Mol Biol",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42955690/",
-      "imageUrl": null,
-      "sourceId": "pubmed-india-health",
-      "sourceName": "PubMed – India health research",
-      "publisher": "National Library of Medicine / NCBI",
-      "tier": "scientific",
-      "category": "trending-medicine",
-      "publishedAt": null,
-      "collectedAt": "2026-11-17T01:14:03Z",
-      "tags": [
-        "research",
-        "pubmed"
-      ],
-      "externalId": "42955690"
     }
   ]
 }
