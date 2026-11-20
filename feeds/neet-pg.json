@@ -1,6 +1,6 @@
 {
   "category": "neet-pg",
-  "updatedAt": "2026-11-20T07:33:34Z",
+  "updatedAt": "2026-11-20T16:28:32Z",
   "items": [
     {
       "id": "ea3e40d9a5bc1067895a69bf",
@@ -14,7 +14,7 @@
       "tier": "educational",
       "category": "neet-pg",
       "publishedAt": null,
-      "collectedAt": "2026-11-20T07:33:34Z",
+      "collectedAt": "2026-11-20T16:28:32Z",
       "tags": [
         "NEET PG",
         "INI-CET",
@@ -36,14 +36,14 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-20T07:33:34Z",
+      "collectedAt": "2026-11-20T16:28:32Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1884"
     },
     {
       "id": "40580746cd076bd1d8a2b8b0",
       "title": "29/09/2026- Seat Matrix for Postgraduate (PG) seats for the Academic Year 2026–27 as on 29.09.2026 – Reg",
-      "description": "18 29/09/2026- Seat Matrix for Postgraduate (PG) seats for the Academic Year 2026–27 as on 29.09.2026 – Reg 📄 PDF 29 Sep 2026",
+      "description": "19 29/09/2026- Seat Matrix for Postgraduate (PG) seats for the Academic Year 2026–27 as on 29.09.2026 – Reg 📄 PDF 29 Sep 2026",
       "url": "https://nmc.org.in/whats-new/download/1871",
       "imageUrl": null,
       "sourceId": "nmc-notices",
@@ -52,7 +52,7 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-11-20T07:33:34Z",
+      "collectedAt": "2026-11-20T16:28:32Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1871"
     }
