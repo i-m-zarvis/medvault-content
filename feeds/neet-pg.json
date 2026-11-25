@@ -1,6 +1,6 @@
 {
   "category": "neet-pg",
-  "updatedAt": "2026-11-25T09:58:25Z",
+  "updatedAt": "2026-11-25T19:59:50Z",
   "items": [
     {
       "id": "ea3e40d9a5bc1067895a69bf",
@@ -14,7 +14,7 @@
       "tier": "educational",
       "category": "neet-pg",
       "publishedAt": null,
-      "collectedAt": "2026-11-25T09:58:25Z",
+      "collectedAt": "2026-11-25T19:59:50Z",
       "tags": [
         "NEET PG",
         "INI-CET",
@@ -27,7 +27,7 @@
     {
       "id": "f5429234aad597901f0b2e5c",
       "title": "06/11/2026 - Publication of Updated Seat Matrix for Postgraduate (PG) Broad Speciality Courses for the Academic Year 2026–27",
-      "description": "7 06/11/2026 - Publication of Updated Seat Matrix for Postgraduate (PG) Broad Speciality Courses for the Academic Year 2026–27 New 📄 PDF 06 Nov 2026",
+      "description": "8 06/11/2026 - Publication of Updated Seat Matrix for Postgraduate (PG) Broad Speciality Courses for the Academic Year 2026–27 New 📄 PDF 06 Nov 2026",
       "url": "https://nmc.org.in/whats-new/download/1884",
       "imageUrl": null,
       "sourceId": "nmc-notices",
@@ -36,25 +36,9 @@
       "tier": "official",
       "category": "neet-pg",
       "publishedAt": "2026-11-06T00:00:00Z",
-      "collectedAt": "2026-11-25T09:58:25Z",
+      "collectedAt": "2026-11-25T19:59:50Z",
       "tags": [],
       "externalId": "https://nmc.org.in/whats-new/download/1884"
-    },
-    {
-      "id": "40580746cd076bd1d8a2b8b0",
-      "title": "29/09/2026- Seat Matrix for Postgraduate (PG) seats for the Academic Year 2026–27 as on 29.09.2026 – Reg",
-      "description": "20 29/09/2026- Seat Matrix for Postgraduate (PG) seats for the Academic Year 2026–27 as on 29.09.2026 – Reg 📄 PDF 29 Sep 2026",
-      "url": "https://nmc.org.in/whats-new/download/1871",
-      "imageUrl": null,
-      "sourceId": "nmc-notices",
-      "sourceName": "National Medical Commission – Notices",
-      "publisher": "National Medical Commission, Government of India",
-      "tier": "official",
-      "category": "neet-pg",
-      "publishedAt": "2026-09-29T00:00:00Z",
-      "collectedAt": "2026-11-25T09:58:25Z",
-      "tags": [],
-      "externalId": "https://nmc.org.in/whats-new/download/1871"
     }
   ]
 }

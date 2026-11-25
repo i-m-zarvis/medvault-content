@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T09:58:25Z",
+  "generatedAt": "2026-11-25T19:59:50Z",
   "scope": "india-health",
   "feeds": [
     {
@@ -13,7 +13,7 @@
       "id": "neet-pg",
       "title": "NEET PG Updates",
       "path": "feeds/neet-pg.json",
-      "count": 3
+      "count": 2
     },
     {
       "id": "mbbs-updates",
